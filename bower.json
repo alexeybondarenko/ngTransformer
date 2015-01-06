@@ -1,0 +1,19 @@
+{
+  "name": "ngTransformer",
+  "main": "ngTransformer.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/alexeybondarenko/ngTransformer",
+  "authors": [
+    "Alexey Bondarenko <alexeybondarenko@me.com>"
+  ],
+  "description": "Transformer of backend response",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ]
+}
