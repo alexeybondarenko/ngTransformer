@@ -16,7 +16,7 @@
     "test",
     "tests"
   ],
-  "dependencies": [
+  "dependencies": {
     "components-underscore": "~1.7.0"
-  ]
+  }
 }
